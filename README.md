@@ -52,7 +52,7 @@ Quando não estou programando, você pode me encontrar:
 
 Você pode me encontrar em:
 
-- [Potifólio](seulinkedin)
+- [Potifólio]( https://futura-programadora.github.io/VionTech-ofc/)
 
 
 ---
