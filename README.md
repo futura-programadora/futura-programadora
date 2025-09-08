@@ -8,9 +8,9 @@ Sou desenvolvedora apaixonada pelo desenvolvimento **full-stack**, com experiên
 
 Aqui estão algumas das tecnologias com as quais tenho experiência ou estou aprendendo:
 
-- **Linguagens**: JavaScript, PHP, TypeScript, etc.
-- **Frameworks e Bibliotecas**: React, Node.js, Express, etc.
-- **Banco de Dados**: MongoDB, PostgreSQL, etc.
+- **Linguagens**: JavaScript, PHP, TypeScript, Java, kotlin, etc.
+- **Frameworks e Bibliotecas**: React, Node.js, Express, Dotenv, CORS, Vite, etc.
+- **Banco de Dados**: MongoDB, PostgreSQL, MySQL, etc.
 - **Outros**: Docker, Git, Puppeteer, etc.
 
 ---
@@ -19,9 +19,11 @@ Aqui estão algumas das tecnologias com as quais tenho experiência ou estou apr
 
 Atualmente, estou aprendendo mais sobre:
 
-- Desenvolvimento e Análise de Sistemas
-- Análise de Banco de Dados
-- Desenvolvimento Mobile
+- Desenvolvimento e Análise de Sistemas.
+- Análise de Banco de Dados.
+- Desenvolvimento Mobile.
+- Automações.
+- manutenção de sites.
 
 ---
 
