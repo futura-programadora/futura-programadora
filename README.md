@@ -54,7 +54,7 @@ Quando não estou programando, você pode me encontrar:
 
 Você pode me encontrar em:
 
-- [Potifólio]( https://futura-programadora.github.io/VionTech-ofc/)
+- [Potifólio]( https://vionbuilder.com.br/daniela)
 
 
 ---
