@@ -43,7 +43,7 @@ Um projeto real, em produção, onde aplico diariamente:
 - APIs REST para comunicação entre front-end e back-end
 - Automações com n8n para integrações entre sistemas
 - Modelagem de banco de dados relacional (MySQL)
-- Interfaces responsivas do Desktop ao Mobile
+- Interfaces responsivas do desktop ao mobile
 
 <br>
 
@@ -107,22 +107,26 @@ Um projeto real, em produção, onde aplico diariamente:
 <br>
 
 ## Disponibilidade
- 
+
 Estou aberta a projetos freelance, parcerias e colaborações — principalmente em desenvolvimento web, sistemas SaaS, automações e apps mobile. Se você tem um projeto em mente, entre em contato pelos canais abaixo.
- 
+
 <div align="center">
+
 [![Portfólio](https://img.shields.io/badge/Portfólio-viontech.net.br-6C3CE1?style=for-the-badge)](https://viontech.net.br/)
 [![VionBuilder](https://img.shields.io/badge/SaaS-vionbuilder.com.br-0EA5E9?style=for-the-badge)](https://vionbuilder.com.br)
- 
+
 </div>
+
 <br>
+
 ## Estatísticas do GitHub
- 
+
 <div align="center">
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=futura-programadora&show_icons=true&count_private=true&hide_title=true&theme=radical)
- 
+
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=futura-programadora&layout=compact&theme=radical&hide_border=true)
- 
+
 </div>
 
 </div>
