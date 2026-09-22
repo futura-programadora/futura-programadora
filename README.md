@@ -112,9 +112,7 @@ Estou aberta a projetos freelance, parcerias e colaborações — principalmente
 
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-viontech.net.br-6C3CE1?style=for-the-badge)](https://viontech.net.br/?utm_source=gh)
-[![VionBuilder](https://img.shields.io/badge/SaaS-vionbuilder.com.br-0EA5E9?style=for-the-badge)](https://vionbuilder.com.br/?utm_source=gh)
-
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=futura-programadora&show_icons=true&count_private=true&hide_title=true&theme=radical)](https://github.com/futura-programadora)
 </div>
 
 <br>
